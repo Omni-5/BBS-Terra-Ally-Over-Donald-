@@ -18,3 +18,7 @@ assets:
    method: copy
    source:
      - name: obj/W_EX020.a.us
+ - name: obj/W_EX020.mdlx
+   method: copy
+   source:
+     - name: obj/W_EX020.mdlx
