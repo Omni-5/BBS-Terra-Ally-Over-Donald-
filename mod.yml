@@ -2,10 +2,6 @@ title: Terra Ally(Over Donald)
 originalAuthor: Omniツ
 description: Custom Terra Ally.Discord server for any questions! https://discord.gg/YMV6Ea2
 assets:
- - name: obj/P_EX020.mset
-   method: copy
-   source:
-     - name: obj/P_EX020.mset
  - name: obj/W_EX020.mdlx
    method: copy
    source:
